@@ -1,10 +1,10 @@
 import './App.css'
-import Greetings from './full stack/Greetings.jsx'
+import Car from './full stack/Car.jsx'
 
 function App() {
   return (
     <>
-      <Greetings />
+      <Car />
     </>
   )
 }
